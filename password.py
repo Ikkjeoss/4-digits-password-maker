@@ -1,4 +1,4 @@
-ask = input("plz text x to start")
+ask = input("plz text x to start ")
 if ask == "x":
  codes = []
  for n in range(10000):
